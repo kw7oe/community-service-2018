@@ -2,8 +2,8 @@
 layout: base
 ---
 <div class="main-col" aria-label="Content">
-  <h2>Hi, I am Kai</h2>
-  <p>Here I write about programming and random stuff.</p>
+  <h2>Hi, We are a group of students from Sunway University.</h2>
+  <p>Here we share our thoughts and process while contributing to the community.</p>
 
   <h1 class="title has-text-centered">Posts</h1>
   <table class="table">
@@ -11,7 +11,5 @@ layout: base
     {% include component/post_title.html post=post %}
   {% endfor %}
   </table>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 </div>
 
