@@ -23,6 +23,11 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
 }
 
+caption {
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
 hr {
   border: none;
   background-color: $hr-color;
@@ -115,9 +120,26 @@ pre {
   margin-left: 20%;
 }
 
+// Image
+.image-box {
+  width: 60%;
+  margin: auto;
+}
+
+.img {
+  width: 100%;
+  height: auto;
+}
+
 @media only screen and (max-width : 768px) {
   .main-col {
     width: 90%;
     margin-left: 5%;
   }
+
+  .image-box {
+    width: 80%;
+  }
 }
+
+

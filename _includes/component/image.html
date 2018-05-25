@@ -1,0 +1,13 @@
+<table class="image-box">
+  <caption align="bottom">
+    {{ include.description }}
+  </caption>
+  <tr>
+    <td>
+      <img class="img"
+           src="{{ include.url | absolute_url }}"
+           alt="{{ include.description }}"/>
+    </td>
+  </tr>
+</table>
+

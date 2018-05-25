@@ -1,0 +1,86 @@
+---
+layout: post
+title: Preparation and Planning
+---
+
+It had been a long week since we last updated our blog.
+We have done quite a number of tasks in this week.
+First of all, we have been keeping in contact with Agathians
+Shelter about the merchandises that we will be selling and
+we have gotten a list from them. As we are told, we are about to sell:
+
+- Books: Fiction and non-fiction (non-religious, non-politics)
+- Water tumblers / bottles
+- Keychains
+- Ladies Blouse, short pants
+- Unisex Collared and round neck T-shirts
+- Men Formal / Casual Shirts
+
+With the list of merchandises, we started to work on the proposal
+to request for a venue in university. With the complete details
+provided, we successfully obtained a booth in boulevard.
+Considering the time to fetch the merchandises and other preparations,
+we are planning to open the booth from 4th June to 6th June.
+
+{% include component/image.html url="/assets/image/photo3.jpg"
+description="Chanan, Qi Hao and Kai Wern discussing on the preparation needed
+for fundraising event" %}
+
+In the past weeks, we had a  meeting to discuss about
+the preparation needed for the fundraising event
+and allocation of responsibilities.
+
+During the discussion, we had identified a few possible problems we
+might face during the fundraising event. Since this is the first time
+we help raising funds, we should be very careful when it comes to
+handling the money.
+
+{% include component/image.html url="/assets/image/photo1.jpg"
+description="Qi Hao and Kai Wern having discussion how to resolve the problem" %}
+
+So to resolve this issue, we plan to document every single transaction
+of the merchandiseand donation to keep track of our fund we raised and
+to ensure that we have a clean and transparent record on throught the
+fundraising event.
+
+To ensure that we do not accidentally miscalculated the fund raised,
+we decided to assign a treasurer to be responsible on this issue.
+
+During the discussion, we also found out that we need a board that
+can grab attention of people during the collection of donation and
+spread awareness about this event. The members from the other group,
+Raeka and Charis, had volunteered themselves on preparing the board,
+
+The board will be equiped with necessary information such as:
+
+- The purpose of the fundraising event
+- The background of Agathians Shelter, the orphanage home
+- How the donation will be used on aiding the opreation of the orphanage
+  home
+
+{% include component/image.html url="/assets/image/photo2.jpg"
+description="Two groups having discussion on the roster for during
+fundraising event" %}
+
+We also had a discussion with the other group on the allocation of the
+timeslots during the fundraising event as well.
+
+The event lasts 3 days, from 4th of June to 6th of June, and the
+activities during the fundraising events can be summarized as below:
+
+- Duty at booth to sell merchandize and collection of donation
+- Walk around the campus to spread awareness and collection of donation
+
+From a brief overview on the work required during the events, we figured
+out that we need at least 2 people take care of the booth and around 2
+people walk around the campus to collect donation and spread awareness.
+
+Since some of us have classes to attend during some of these days,
+we share our timetable with each other and discuss who will be responsible
+of those duties for the event. After a brief discussion, each of us have a
+rough idea on who can be on duty on which day. To finalize the allocation
+of timeslot during the fundraising event, Qi Hao created an Google Sheets
+to allow other members to specify their duty time.
+
+Throughout the meeting, we distribute the tasks accordingly to prevent
+overwhelming work needed to be done by an individual alone.
