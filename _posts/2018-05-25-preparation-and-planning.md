@@ -49,7 +49,7 @@ we decided to assign a treasurer to be responsible on this issue.
 During the discussion, we also found out that we need a board that
 can grab attention of people during the collection of donation and
 spread awareness about this event. The members from the other group,
-Raeka and Charis, had volunteered themselves on preparing the board,
+Raeka and Charis, had volunteered themselves to prepare the board,
 
 The board will be equiped with necessary information such as:
 
