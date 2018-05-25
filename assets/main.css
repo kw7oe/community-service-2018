@@ -185,6 +185,8 @@ body, html { font-family: "Titillium Web", sans-serif; padding: 0; margin: 0; }
 
 h1, h2, h3, h4, h5, h6 { margin: 0; }
 
+caption { font-size: 0.9rem; font-style: italic; }
+
 hr { border: none; background-color: #CCC; display: block; height: 1px; margin: 1.5rem 0; }
 
 a { color: #007EA7; text-decoration: none; }
@@ -210,4 +212,9 @@ pre { background-color: #F2F2F2; border-radius: 4px; padding: 16px; white-space:
 
 .main-col { width: 60%; margin-left: 20%; }
 
-@media only screen and (max-width: 768px) { .main-col { width: 90%; margin-left: 5%; } }
+.image-box { width: 60%; margin: auto; }
+
+.img { width: 100%; height: auto; }
+
+@media only screen and (max-width: 768px) { .main-col { width: 90%; margin-left: 5%; }
+  .image-box { width: 80%; } }
