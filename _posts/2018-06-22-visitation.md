@@ -44,3 +44,7 @@ together. We also thanked the staff for having us.
 
 Despite feeling tired after having fun with the children, we all felt fulfilled
 and happy to have the opportunity to contribute something to the society.
+
+
+{% include component/image.html url="/assets/image/attendance.jpg"
+  description="Attendance Record" %}
